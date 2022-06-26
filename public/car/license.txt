@@ -1,0 +1,11 @@
+Model Information:
+* title:	Chrysler 1932 CL Imperial
+* source:	https://sketchfab.com/3d-models/chrysler-1932-cl-imperial-13fa6aedfe9e4a688a8e86a8d2d98a96
+* author:	klaxoneer (https://sketchfab.com/klaxoneer)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Chrysler 1932 CL Imperial" (https://sketchfab.com/3d-models/chrysler-1932-cl-imperial-13fa6aedfe9e4a688a8e86a8d2d98a96) by klaxoneer (https://sketchfab.com/klaxoneer) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
