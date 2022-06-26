@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bulding
+* source:	https://sketchfab.com/3d-models/bulding-47f02040457e4a5ea8690b92efdb901b
+* author:	3dthauruxart (https://sketchfab.com/Thaurux)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bulding" (https://sketchfab.com/3d-models/bulding-47f02040457e4a5ea8690b92efdb901b) by 3dthauruxart (https://sketchfab.com/Thaurux) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
