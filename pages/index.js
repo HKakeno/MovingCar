@@ -35,7 +35,7 @@ const Page = () => {
                         <Heading as="h2" variant="page-title">
                             Hiroki Kakeno
                         </Heading>
-                        <p>初めまして！</p>
+                        <p>Moving-Car</p>
                     </Box>
                 </Box>
 
