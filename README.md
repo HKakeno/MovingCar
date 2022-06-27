@@ -1,6 +1,6 @@
 # MovingCar
 
-<iframe src="https://giphy.com/embed/1iLs3ldDFpP8gniVFE" width="392" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/1iLs3ldDFpP8gniVFE">via GIPHY</a></p>
+https://github.com/HKakeno/MovingCar/issues/1#issue-1285531026
 
 ## Lisenses And References
 
