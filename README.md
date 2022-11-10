@@ -1,6 +1,6 @@
 # MovingCar
 
-https://github.com/HKakeno/MovingCar/issues/1#issue-1285531026
+![sample](https://media.giphy.com/media/1iLs3ldDFpP8gniVFE/giphy.gif)
 
 ## Lisenses And References
 
