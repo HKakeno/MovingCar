@@ -1,6 +1,6 @@
 # MovingCar
 
-![sample](https://media.giphy.com/media/1iLs3ldDFpP8gniVFE/giphy.gif)
+![moving_car](https://user-images.githubusercontent.com/68272006/201110274-650feeeb-6733-4df3-a71f-2cf43298d3d3.gif)
 
 ## Lisenses And References
 
